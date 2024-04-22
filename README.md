@@ -98,7 +98,23 @@
             <a href="https://www.instagram.com/joicebarbaresco/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
-            <img class="estudante-imagem" src="Maria.jpg" alt="foto da maria">
+            <img class="estudante-imagem" src="Maria.jpg" alt="foto da maria"><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+
             <h3 class="estudante-nome">Maria</h3>
             <a href="https://github.com/MagePSR"><img class="estudante-icone" src="github.png" alt="icone github"></a>
             <a href="https://www.linkedin.com/in/mariageovanna"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
